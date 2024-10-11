@@ -92,7 +92,6 @@ function animate() {
     //     if(frameX > 6) frameX = 0
     // }
     gameFrame++;
-    
 
     // bucle infinito
     requestAnimationFrame(animate);
